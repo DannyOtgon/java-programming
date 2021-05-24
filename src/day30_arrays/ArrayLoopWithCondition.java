@@ -55,7 +55,7 @@ public class ArrayLoopWithCondition {
 
             }
         }
-        System.out.println("Number of prices that are mone than 50: "+ num);
+        System.out.println("Number of prices that are more than 50: "+ num);
 
         System.out.println("\n--------------Countries with name length more than 7 -----------");
 

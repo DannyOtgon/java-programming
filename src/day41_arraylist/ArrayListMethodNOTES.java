@@ -9,7 +9,7 @@ public class ArrayListMethodNOTES {
      * get --> returns value oat certain index
      * size --> returns the count of elements
      * remove (index) --> removes element at certain index
-     * remove (object) --> removes given object from list, if mane, removes first one
+     * remove (object) --> removes given object from list, if many, removes first one
      * clear --> removes all elements
      * contains --> checks if element is present in list
      * isEmpty --> return true if no elements or false if there elements
